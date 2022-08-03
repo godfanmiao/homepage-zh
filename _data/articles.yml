@@ -1,3 +1,8 @@
+- title: DuMapper: Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps
+  authors: Miao Fan, Jizhou Huang, Haifeng Wang
+  url: 
+  source: CIKM'22
+
 - title: Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps
   authors: Miao Fan, Yibo Sun, Jizhou Huang, Haifeng Wang, Ying Li
   url: https://dl.acm.org/doi/10.1145/3447548.3467058
