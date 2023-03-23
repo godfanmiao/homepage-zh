@@ -43,6 +43,11 @@
   url: "https://patents.google.com/patent/US11403680B2/en"
   description: US Patent No.：US11403680B2
 
+- title: Method and Device for Information Retrieval, Device and Computer Readable Storage Medium
+  authors: Miao Fan, Zehao Dou, Mingming Sun, Ping Li, Haifeng Wang
+  url: "https://patents.google.com/patent/US11055374B2/en"
+  description: US Patent No.：US11055374B2
+
 - title: 查询自动补全的方法、装置、设备和计算机存储介质
   authors: 李莹，黄际洲，范淼，王海峰
   url: "https://patents.google.com/patent/CN111222058B/zh"
@@ -77,3 +82,18 @@
   authors: 范淼，冯悦，孙明明，李平，王海峰
   url: "https://patents.google.com/patent/CN108363790B/zh"
   description: 中国发明专利授权公告号：CN108363790B
+
+- title: 推送信息的方法和装置
+  authors: 范淼，周桐，黄际洲
+  url: "https://patents.google.com/patent/CN113495942B/zh"
+  description: 中国发明专利授权公告号：CN113495942B
+
+- title: 信息检索方法、装置、设备及计算机可读介质
+  authors: 范淼，余金星，窦泽皓，孙明明，李平，王海峰
+  url: "https://patents.google.com/patent/CN110633407B/zh"
+  description: 中国发明专利授权公告号：CN110633407B
+
+- title: 用于信息检索的方法、装置、设备和计算机可读存储介质
+  authors: 范淼，窦泽皓，孙明明，李平，王海峰
+  url: "https://patents.google.com/patent/CN110674429B/zh"
+  description: 中国发明专利授权公告号：CN110674429B
