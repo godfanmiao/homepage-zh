@@ -48,6 +48,11 @@
   url: "https://patents.google.com/patent/US11055374B2/en"
   description: US Patent No.：US11055374B2
 
+- title: Method and Apparatus for Building Synonymy Discriminating Model and Method and Apparatus for Discriminating Synonymous Text
+  authors: Miao Fan, Mingming Sun, Wutao Lin, Ping Li
+  url: "https://patents.google.com/patent/US10776578B2/en"
+  description: US Patent No.：US10776578B2
+
 - title: 查询自动补全的方法、装置、设备和计算机存储介质
   authors: 李莹，黄际洲，范淼，王海峰
   url: "https://patents.google.com/patent/CN111222058B/zh"
@@ -97,3 +102,13 @@
   authors: 范淼，窦泽皓，孙明明，李平，王海峰
   url: "https://patents.google.com/patent/CN110674429B/zh"
   description: 中国发明专利授权公告号：CN110674429B
+
+- title: 用于更新模型参数的方法、装置、设备和存储介质
+  authors: 范淼，冯悦，孙明明，李平
+  url: "https://patents.google.com/patent/CN110399547B/zh"
+  description: 中国发明专利授权公告号：CN110399547B
+
+- title: 建立同义鉴别模型以及鉴别同义文本的方法、装置
+  authors: 范淼，孙明明，林武桃，李平
+  url: "https://patents.google.com/patent/CN107797985B/zh"
+  description: 中国发明专利授权公告号：CN107797985B
