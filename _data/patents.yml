@@ -33,6 +33,16 @@
   url: "https://patents.google.com/patent/US11328600B2/en"
   description: US Patent No.：US11328600B2
 
+- title: Method and Apparatus for Determining Response for User Input Data, and Medium
+  authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li, Haifeng Wang
+  url: "https://patents.google.com/patent/US11238050B2/en"
+  description: US Patent No.：US11238050B2
+
+- title: Method, Apparatus for Evaluating Review, Device and Storage Medium
+  authors: Miao Fan, Yue Feng, Mingming Sun, Ping Li, Haifeng Wang
+  url: "https://patents.google.com/patent/US11403680B2/en"
+  description: US Patent No.：US11403680B2
+
 - title: 查询自动补全的方法、装置、设备和计算机存储介质
   authors: 李莹，黄际洲，范淼，王海峰
   url: "https://patents.google.com/patent/CN111222058B/zh"
@@ -62,3 +72,8 @@
   authors: 黄际洲，王海峰，张昊，范淼
   url: "https://patents.google.com/patent/CN111859291B/zh"
   description: 中国发明专利授权公告号：CN111859291B
+
+- title: 用于对评论进行评估的方法、装置、设备和存储介质
+  authors: 范淼，冯悦，孙明明，李平，王海峰
+  url: "https://patents.google.com/patent/CN108363790B/zh"
+  description: 中国发明专利授权公告号：CN108363790B
