@@ -20,18 +20,20 @@ resume_contact_email:           "fm12@tsinghua.org.cn"
 resume_contact_telephone:       "13581700448"
 resume_contact_address:         "中国北京海淀区"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
 resume_header_intro: "
 
-<p>北京市高级工程师（副高级职称），四维图新集团技术专家；</p>
+<p>四维图新集团（资深）技术专家，教授级高工；</p>
 
 <p>中国人民大学信息资源管理学院研究生行业导师；</p>
 
+<p>中国电子学会高级会员、测绘学会资深会员；</p>
+
 <p>清华大学软件学院博士后、计算机系工学博士；</p>
 
-<p>专业系列畅销书《Python机器学习及实践：从零开始通往Kaggle竞赛之路》作者； </p>
+<p>专业书籍《Python机器学习及实践：从零开始通往Kaggle竞赛之路》、《Python人工智能编程实践》等作者； </p>
 
 <p>在国际顶级期刊、会议上发表论文20余篇，谷歌学术引用1000余次；</p>
 
@@ -51,6 +53,7 @@ resume_section_education:       true
 resume_section_monographs:        true
 resume_section_articles:        true
 resume_section_patents:        true
+resume_section_softwares:        true
 #resume_section_projects:        true
 #resume_section_skills:          true
 #resume_section_recognition:     true

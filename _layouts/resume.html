@@ -176,6 +176,26 @@
               <!-- end Projects -->
               {% endif %}
 
+              {% if site.resume_section_softwares %}
+              <!-- begin Softwares -->
+              <section class="content-section">
+                  <header class="section-header">
+                      <h2>软件著作权（部分）</h2>
+                  </header>
+
+                  {% for software in site.data.softwares %}
+                  <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+                      <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+                      <h3>&bull; {% if software.url %}<a href="{{ software.url }}" itemprop="url">{{ software.title }}</a>{% else %}{{ software.title }}{% endif %}</h3>
+                      <h4>{{ software.authors }} </h4>
+                      <p class="resume-item-copy">{{ software.description }}</p>
+                  </div>
+                  {% endfor %}
+
+              </section>
+              <!-- end Projects -->
+              {% endif %}
+
               {% if site.resume_section_skills %}
               <!-- begin Skills -->
               <section class="content-section">
