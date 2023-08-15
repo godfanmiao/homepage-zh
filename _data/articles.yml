@@ -91,16 +91,16 @@
 - title: Distributed Representation Learning for Knowledge Graphs with Entity Descriptions
   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
   url: https://www.sciencedirect.com/science/article/abs/pii/S0167865516302380
-  source: [J] Pattern Recognition Letters, Elsevier.
+  source: Pattern Recognition Letters, Elsevier. \[J\]
 
 - title: Probabilistic Belief Embedding for Large-Scale Knowledge Population
   authors: Miao Fan, Qiang Zhou, Andrew Abel, Thomas Fang Zheng, Ralph Grishman
   url: https://link.springer.com/article/10.1007/s12559-016-9425-5 
-  source: [J] Cognitive Computation, Springer. 
+  source: Cognitive Computation, Springer. \[J\]
 
 - title: Distant Supervision for Relation Extraction with Matrix Completion
   authors: Miao Fan, Deli Zhao, Qiang Zhou, Zhiyuan Liu, Thomas Fang Zheng, Edward Y. Chang
   url: https://aclweb.org/anthology/P14-1079
-  source: [C] ACL'14
+  source: ACL'14
     
   
