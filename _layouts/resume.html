@@ -49,8 +49,6 @@
           </header>
 
 
-
-
               {% if site.resume_section_education %}
               <!-- begin Education -->
               <section class="content-section">
@@ -69,8 +67,6 @@
               </section>
               <!-- end Education -->
               {% endif %}
-
-
 
 
               {% if site.resume_section_experience %}
@@ -93,44 +89,23 @@
               {% endif %}
 
 
-              {% if site.resume_section_associations %}
-              <!-- begin Associations -->
+              {% if site.resume_section_projects %}
               <section class="content-section">
 
                   <header class="section-header">
-                      <h2>社会兼职</h2>
+                      <h2>重点项目</h2>
                   </header>
 
-                  {% for association in site.data.associations %}
+                  {% for project in site.data.projects %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3>&bull; {{ association.organization }}</h3>
-                      <h4>{% if association.url %}<a href="{{ association.url }}">{{ association.role }} </a>{% else %}{{ association.role }}{% endif %} </h4>
-                      <p class="resume-item-copy">{{ association.summary }}</p>
+                      <h3>&bull; {{ project.organization }}</h3>
+                      <h4>{% if project.url %}<a href="{{ project.url }}">{{ project.role }} </a>{% else %}{{ project.role }}{% endif %} </h4>
+                      <p class="resume-item-copy">{{ project.summary }}</p>
                   </div>
                   {% endfor %}
 
               </section>
               <!-- end Associations -->
-              {% endif %}
-
-              {% if site.resume_section_media %}
-              <!-- begin Media -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>媒体报道</h2>
-                  </header>
-                  {% for media in site.data.media %}
-                  <div class="resume-item">
-                    <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                        <h3>&bull; {{ media.name }}</h3>
-                        <h4>{% if media.url %}<a href="{{ media.url }}">{{ media.role }} </a>{% else %}{{ media.role }}{% endif %} </h4>
-                    </div>
-                  </div>
-                  {% endfor %}
-
-              </section>
-              <!-- end Skills -->
               {% endif %}
 
               {% if site.resume_section_monographs %}
@@ -152,6 +127,26 @@
 
               </section>
               <!-- end Projects -->
+              {% endif %}
+
+              {% if site.resume_section_associations %}
+              <!-- begin Associations -->
+              <section class="content-section">
+
+                  <header class="section-header">
+                      <h2>社会兼职</h2>
+                  </header>
+
+                  {% for association in site.data.associations %}
+                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                      <h3>&bull; {{ association.organization }}</h3>
+                      <h4>{% if association.url %}<a href="{{ association.url }}">{{ association.role }} </a>{% else %}{{ association.role }}{% endif %} </h4>
+                      <p class="resume-item-copy">{{ association.summary }}</p>
+                  </div>
+                  {% endfor %}
+
+              </section>
+              <!-- end Associations -->
               {% endif %}
 
               {% if site.resume_section_articles %}
@@ -214,6 +209,28 @@
               <!-- end Projects -->
               {% endif %}
 
+
+              {% if site.resume_section_media %}
+              <!-- begin Media -->
+              <section class="content-section">
+
+                  <header class="section-header">
+                      <h2>媒体报道</h2>
+                  </header>
+                  {% for media in site.data.media %}
+                  <div class="resume-item">
+                    <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                        <h3>&bull; {{ media.name }}</h3>
+                        <h4>{% if media.url %}<a href="{{ media.url }}">{{ media.role }} </a>{% else %}{{ media.role }}{% endif %} </h4>
+                    </div>
+                  </div>
+                  {% endfor %}
+
+              </section>
+              <!-- end Skills -->
+              {% endif %}
+              
+              
               {% if site.resume_section_skills %}
               <!-- begin Skills -->
               <section class="content-section">
