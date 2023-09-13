@@ -1,8 +1,5 @@
-# Associations
-# comment out the urls if you do not wish to display them
-
 - name: XXXX
   organization: 陕西省重点研发计划
   role: 负责人
-  url: https://irm.ruc.edu.cn/szdw/xwds/index.htm
+  url: 
 

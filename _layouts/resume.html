@@ -93,14 +93,14 @@
               <section class="content-section">
 
                   <header class="section-header">
-                      <h2>重点项目</h2>
+                      <h2>承担课题</h2>
                   </header>
 
                   {% for project in site.data.projects %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3>&bull; {{ project.organization }}</h3>
-                      <h4>{% if project.url %}<a href="{{ project.url }}">{{ project.role }} </a>{% else %}{{ project.role }}{% endif %} </h4>
-                      <p class="resume-item-copy">{{ project.summary }}</p>
+                      <h3>&bull; {{ project.name }}</h3>
+                      <h4>{% if project.url %}<a href="{{ project.url }}">{{ project.organization }} </a>{% else %}{{ project.organization }}{% endif %} </h4>
+                      <p class="resume-item-copy">{{ project.role }}</p>
                   </div>
                   {% endfor %}
 
