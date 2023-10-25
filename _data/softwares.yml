@@ -1,10 +1,15 @@
-- title: 【代表作】SVMap：基于单目相机的车端实时高精矢量化地图生成软件 (V1.0)
+- title: 【代表作】VMap-SVis：基于单目相机的车端实时高精矢量化地图生成软件 (V1.0)
   authors: 范淼、姚毅、肖旭、宋向勃
   url: 
   description: 中国计算机软件著作权登记号：XXXX
 
-- title: 【代表作】MVMap：基于多路相机的车端实时高精矢量化地图生成软件 (V1.0)
+- title: 【代表作】VMap-MVis：基于多路相机的车端实时高精矢量化地图生成软件 (V1.0)
   authors: 范淼、姚毅、肖旭、宋向勃 
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+
+- title: VMap-Fusion：高精矢量化地图的多轮融合生成软件 (V1.0)
+  authors: 范淼、姚毅、宋向勃
   url: 
   description: 中国计算机软件著作权登记号：XXXX
 
@@ -37,3 +42,4 @@
   authors: 姚毅、范淼、宋向勃
   url: 
   description: 中国计算机软件著作权登记号：XXXX
+
