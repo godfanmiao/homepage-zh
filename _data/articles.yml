@@ -103,7 +103,27 @@
   url: https://dl.acm.org/citation.cfm?id=3272004
   source: CIKM'18. [C]
 
+- title: Learning Embedding Representations for Knowledge Inference on Imperfect and Incomplete Repositories
+  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
+  url: https://ieeexplore.ieee.org/abstract/document/7817034
+  source: WI-IAT'16. [C]
+
+- title: Jointly Embedding Relations and Mentions for Knowledge Population
+  authors: Miao Fan, Kai Cao, Yifan He, Ralph Grishman
+  url: https://aclanthology.org/R15-1026.pdf 
+  source: RANLP'15. [C]
+
+- title: Large Margin Nearest Neighbor Embedding for Knowledge Representation
+  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
+  url: https://ieeexplore.ieee.org/abstract/document/7396779 
+  source: WI-IAT'15. [C]
+
 - title: Distant Supervision for Relation Extraction with Matrix Completion
   authors: Miao Fan, Deli Zhao, Qiang Zhou, Zhiyuan Liu, Thomas Fang Zheng, Edward Y. Chang
   url: https://aclweb.org/anthology/P14-1079
   source: ACL'14. [C]
+
+- title: Content-based Semantic Tag Ranking for Recommendation
+  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
+  url: https://ieeexplore.ieee.org/abstract/document/6511899 
+  source: WI-IAT'12. [C]
