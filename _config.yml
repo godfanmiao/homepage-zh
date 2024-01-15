@@ -40,6 +40,16 @@ resume_header_intro: "
 <p>获美国、中国发明专利授权40余项；登记软件著作权10余项</p>
 "
 
+# "
+# <p>四维图新集团 AIG负责人、博士后科研工作中心主任，教授级高工</p>
+
+# <p>科技部项目评审专家，中国人民大学专业硕士导师、IEEE高级会员</p>
+
+# <p>清华大学软件学院博士后、计算机系工学博士</p>
+
+# <p>著有专业教材（畅销书）：《Python机器学习及实践》、《Python人工智能编程实践》</p>
+# "
+
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
