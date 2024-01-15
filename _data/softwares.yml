@@ -1,17 +1,12 @@
-# - title: LVMap-SCam：基于单目前视相机的车端实时矢量化高精地图生成软件（V1.0）
-#   authors: 范淼、姚毅
-#   url: 
-#   description: 中国计算机软件著作权登记号：XXXX
-
-# - title: LVMap-MCam：基于车载多路相机的在线高精矢量化地图生成软件（V1.0）
+# - title: STVec：基于车载相机的高精矢量化街景在线生成软件（V1.0）
 #   authors: 姚毅、范淼
 #   url: 
 #   description: 中国计算机软件著作权登记号：XXXX
 
-# - title: GNMap：矢量化高精地图的多轮融合生成软件（V1.0 & V2.0）
-#   authors: 范淼、姚毅、宋向勃
-#   url: 
-#   description: 中国计算机软件著作权登记号：XXXX & XXXX
+- title: GNMap：矢量化高精地图的多轮融合生成软件 （V1.0）
+  authors: 范淼、姚毅、宋向勃
+  url: 
+  description: 中国计算机软件著作权登记号：2024SR0080866 
 
 - title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台（V1.0）
   authors: 范淼、姚毅、宋向勃、李翔
