@@ -84,6 +84,24 @@
             <!-- end Education -->
             {% endif %}
 
+            {% if site.resume_section_associations %}
+            <!-- begin Associations -->
+            <section class="content-section">
+
+                <header class="section-header">
+                    <h2>学术兼职</h2>
+                </header>
+
+                {% for association in site.data.associations %}
+                <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                    <h3>{% if association.url %}<a href="{{ association.url }}">{{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %} </h3>
+                    <p>{{ association.role }} </p>
+                </div>
+                {% endfor %}
+
+            </section>
+            <!-- end Associations -->
+            {% endif %}
 
               {% if site.resume_section_projects %}
               <section class="content-section">
@@ -125,24 +143,6 @@
               <!-- end Projects -->
               {% endif %}
 
-              {% if site.resume_section_associations %}
-              <!-- begin Associations -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>社会兼职</h2>
-                  </header>
-
-                  {% for association in site.data.associations %}
-                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3>{% if association.url %}<a href="{{ association.url }}">{{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %} </h3>
-                      <p>{{ association.role }} </p>
-                  </div>
-                  {% endfor %}
-
-              </section>
-              <!-- end Associations -->
-              {% endif %}
 
               {% if site.resume_section_articles %}
               <!-- begin Projects -->
