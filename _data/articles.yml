@@ -13,6 +13,16 @@
   url: https://dl.acm.org/doi/abs/10.1145/3394137
   source: Transactions on Asian and Low-Resource Language Information Processing, ACM. [J]
 
+# - title: Learning to Build Vectorized HD Maps from Video Streams Captured by Onboard Cameras
+#   authors: Miao Fan
+#   url: 
+#   source: SIGSPATIAL'24. [C]
+
+# - title: Learning to Identify Number of Lanes from Vehicle-Captured Video Streams
+#   authors: Miao Fan
+#   url: 
+#   source: SIGSPATIAL'24. [C]
+
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
@@ -23,7 +33,7 @@
   url: https://doi.org/10.1145/3511808.3557097
   source: CIKM'22. [C]
 
-- title: Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps
+- title: Meta-learned Spatial-Temporal POI Auto-completion for the Search Engine at Baidu Maps
   authors: Miao Fan, Yibo Sun, Jizhou Huang, Haifeng Wang, Ying Li
   url: https://dl.acm.org/doi/10.1145/3447548.3467058
   source: KDD'21. [C]
