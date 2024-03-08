@@ -3,10 +3,10 @@
   url: https://banquan.tianyancha.com/rj/949z9em4331cb1e3e64d37175l969158
   description: 中国计算机软件著作权登记号：2024SR0080866 
 
-# - title: Video2Map：基于车载相机视频流的局部高精地图实时生成软件（V1.0）
-#   authors: 范淼、姚毅
-#   url: 
-#   description: 中国计算机软件著作权登记号：XXXX
+- title: Video2Map：基于车采视频的自动驾驶地图流式生成软件（V1.0）
+  authors: 范淼、姚毅
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
 
 - title: STVec：基于车载相机的高精矢量化街景在线生成软件（V1.0）
   authors: 姚毅、范淼
@@ -18,10 +18,10 @@
   url: https://banquan.tianyancha.com/rj/947me7c44c8d767d001c1c1c2l69e568
   description: 中国计算机软件著作权登记号：2023SR1508587
 
-# - title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
-#   authors: 范淼、姚毅、宋向勃、李翔
-#   url: 
-#   description: 中国计算机软件著作权登记号：XXXX
+- title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
+  authors: 范淼、姚毅、宋向勃、李翔
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
 
 - title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台（V1.0 & V2.0）
   authors: 范淼、姚毅、孔旭旭
