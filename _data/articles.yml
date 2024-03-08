@@ -18,10 +18,10 @@
 #   url: 
 #   source: SIGSPATIAL'24. [C]
 
-# - title: Learning to Identify Number of Lanes from Vehicle-captured Video Streams
+# - title: Learning to Identify Number of Lanes Online from Ego-vehicle Captured Video Streams
 #   authors: Miao Fan
 #   url: 
-#   source: SIGSPATIAL'24. [C]
+#   source: IEEE Access [J]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
