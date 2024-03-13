@@ -11,12 +11,17 @@
 - title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
   authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
   url: https://dl.acm.org/doi/abs/10.1145/3394137
-  source: Transactions on Asian and Low-Resource Language Information Processing, ACM. [J]
+  source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
 
 - title: Learning to Identify Number of Lanes Online from Ego-vehicle Captured Video Streams
   authors: Miao Fan
   url: 
-  source: IEEE Access [J]
+  source: IEEE Access. [J]
+
+- title: Vehicle-Cloud Collaborative Learning for HD Maps Construction
+  authors: Miao Fan
+  url: 
+  source: IEEE Transactions on Intelligent Transportation Systems. [J]
 
 - title: Learning to Build Local HD Maps Online from Video Streams Captured by Ego-vehicle Cameras
   authors: Miao Fan
