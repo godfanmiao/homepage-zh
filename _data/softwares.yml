@@ -3,11 +3,6 @@
   url: https://banquan.tianyancha.com/rj/949z9em4331cb1e3e64d37175l969158
   description: 中国计算机软件著作权登记号：2024SR0080866 
 
-- title: AC8025-TLC：基于AC8025芯片的（车云协作）交通灯实时感知系统 （V1.0）
-  authors: 范淼
-  url: 
-  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
-
 - title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件 （V1.0）
   authors: 范淼、姚毅
   url: 
@@ -17,6 +12,16 @@
   authors: 姚毅、范淼
   url: 
   description: 中国计算机软件著作权登记号：2024SR0305968
+
+- title: AC8025-TL-P：基于AC8025芯片的交通灯实时（车云协作）感知系统 （V1.0）
+  authors: 范淼
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
+
+- title: RV1126-TL-C：基于RV1126芯片的交通灯实时感知软件 （V1.0）
+  authors: 范淼
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
 
 - title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台 （V1.0）
   authors: 范淼、姚毅、宋向勃、李翔
