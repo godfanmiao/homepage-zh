@@ -63,6 +63,21 @@
   url: "https://patents.google.com/patent/US10776578B2/en"
   description: US Patent No.：US10776578B2
 
+- title: 云上高精地图构建方法、装置、设备、介质及产品
+  authors: 范淼、姚毅、宋向勃、李翔
+  url: "https://patents.google.com/patent/CN117746115B"
+  description: 中国发明专利授权公告号：CN117746115B
+
+- title: 移动终端上高精地图构建方法、装置、设备、介质及产品
+  authors: 范淼、姚毅、宋向勃、郭兆钟
+  url: "https://patents.google.com/patent/CN117746114B"
+  description: 中国发明专利授权公告号：CN117746114B
+
+- title: 图像识别模型的训练方法、装置及设备
+  authors: 范淼、姚毅
+  url: "https://patents.google.com/patent/CN117710769B"
+  description: 中国发明专利授权公告号：CN117710769B
+
 - title: 训练地图要素挖掘网络模型的方法、装置和可读存储介质
   authors: 范淼
   url: "https://patents.google.com/patent/CN117292236B"
