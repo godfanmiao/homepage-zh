@@ -30,7 +30,7 @@
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
-  url: https://drive.google.com/file/d/16AoBrhEFc4S5LyHTYf4ygxlkpsaKFsiv/view?usp=sharing 
+  url: 
   source: SpatialDI'24. [C]
 
 - title: DuMapper：Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps
@@ -55,7 +55,7 @@
 
 - title: DOLG：Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features
   authors: Min Yang, Dongliang He, Miao Fan, Baorong Shi, Xuetong Xue, Fu Li, Errui Ding, Jizhou Huang
-  url: https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_DOLG_Single-Stage_Image_Retrieval_With_Deep_Orthogonal_Fusion_of_Local_ICCV_2021_paper.pdf
+  url: https://www.computer.org/csdl/proceedings-article/iccv/2021/281200l1752/1BmGcLIKrK0
   source: ICCV'21. [C]
 
 - title: Semi-Supervised Variational Reasoning for Medical Dialogue Generation
