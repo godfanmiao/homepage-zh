@@ -1,6 +1,6 @@
 - title: GNMap：矢量化高精地图的多轮融合生成软件 （V1.0）
   authors: 范淼、姚毅、宋向勃
-  url: https://banquan.tianyancha.com/rj/949z9em4331cb1e3e64d37175l969158
+  url: 
   description: 中国计算机软件著作权登记号：2024SR0080866 
 
 - title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件 （V1.0）
@@ -13,14 +13,14 @@
   url: 
   description: 中国计算机软件著作权登记号：2024SR0305968
 
-- title: AC8025-TL：基于AC8025芯片的交通灯实时（车、图协作）感知系统 （V1.0）
-  authors: 范淼
-  url: 
-  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
+# - title: AC8025-TL：基于AC8025芯片的交通灯实时（车、图协作）感知系统 （V1.0）
+#   authors: 范淼
+#   url: 
+#   description: 中国计算机软件著作权登记号：2024SRXXXXXXX
 
 - title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台 （V1.0）
   authors: 范淼、姚毅、宋向勃、李翔
-  url: https://banquan.tianyancha.com/rj/947me7c44c8d767d001c1c1c2l69e568
+  url: 
   description: 中国计算机软件著作权登记号：2023SR1508587
 
 - title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统 （V1.0）
@@ -30,21 +30,21 @@
 
 - title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台 （V1.0 & V2.0）
   authors: 范淼、姚毅、孔旭旭
-  url: https://banquan.tianyancha.com/rj/94c71cco33f284b2d395d818fl351528
+  url: 
   description: 中国计算机软件著作权登记号：2023SR0762065 & 2023SR1021672
 
 - title: UNiNet-Cls：自然场景下交通标志的实时视觉识别软件 （V1.0）
   authors: 范淼、姚毅
-  url: https://banquan.tianyancha.com/rj/94cove9994ee8407572039193l6fva08
+  url: 
   description: 中国计算机软件著作权登记号：2023SR1029817
 
 - title: UNiNet-Seg：自然场景下道路要素的实时视觉分割与提取软件 （V1.0）
   authors: 姚毅、范淼
-  url: https://banquan.tianyancha.com/rj/947me7ced1dc40ccdd549212al6ceb28
+  url: 
   description: 中国计算机软件著作权登记号：2023SR1508594
 
 - title: UNiNet-Det：自然场景下道路目标的实时视觉检测软件 （V1.0）
   authors: 姚毅、范淼、宋向勃
-  url: https://banquan.tianyancha.com/rj/949z9ezo8d23e7c1b80fd0102l679f18 
+  url: 
   description: 中国计算机软件著作权登记号：2024SR0078845
 
