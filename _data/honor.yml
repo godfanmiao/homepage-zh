@@ -1,5 +1,10 @@
-- name: 市科技新星
+- name: 科技新星
   role: 北京市科学技术委员会
+  duration: 2024
+  url: 
+
+- name: 海英人才
+  role: 北京市海淀区人民政府
   duration: 2024
   url: 
 
