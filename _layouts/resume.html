@@ -103,6 +103,27 @@
             <!-- end Associations -->
             {% endif %}
 
+            {% if site.resume_section_honors %}
+            <!-- begin Honor -->
+            <section class="content-section">
+
+                <header class="section-header">
+                    <h2>荣誉奖励</h2>
+                </header>
+                {% for honor in site.data.honor %}
+                <div class="resume-item">
+                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                      <h3>&bull; {{ honor.name }}</h3>
+                      <h4>{% if honor.url %}<a href="{{ media.url }}">{{ honor.role }} </a>{% else %}{{ honor.role }}{% endif %} </h4>
+                  </div>
+                </div>
+                {% endfor %}
+
+            </section>
+            <!-- end Skills -->
+            {% endif %}
+
+
             {% if site.resume_section_media %}
             <!-- begin Media -->
             <section class="content-section">
@@ -140,6 +161,26 @@
 
               </section>
               <!-- end Associations -->
+              {% endif %}
+
+              {% if site.resume_section_standards %}
+              <!-- begin Softwares -->
+              <section class="content-section">
+                  <header class="section-header">
+                      <h2>起草标准</h2>
+                  </header>
+
+                  {% for standard in site.data.standards %}
+                  <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+                      <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+                      <h3>&bull; {% if standard.url %}<a href="{{ standard.url }}" itemprop="url">{{ standard.title }}</a>{% else %}{{ standard.title }}{% endif %}</h3>
+                      <h4>{{ standard.authors }} </h4>
+                      <p class="resume-item-copy">{{ standard.description }}</p>
+                  </div>
+                  {% endfor %}
+
+              </section>
+              <!-- end Projects -->
               {% endif %}
 
               {% if site.resume_section_monographs %}
@@ -225,99 +266,6 @@
               {% endif %}
 
                           
-              {% if site.resume_section_skills %}
-              <!-- begin Skills -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>Skills</h2>
-                  </header>
-                  {% for skill in site.data.skills %}
-                  <div class="resume-item">
-                      <h4 class="resume-item-details">{{ skill.skill }}</h4>
-                      <p class="resume-item-copy">{{ skill.description }}</p>
-                  </div>
-                  {% endfor %}
-
-              </section>
-              <!-- end Skills -->
-              {% endif %}
-
-              {% if site.resume_section_recognition %}
-              <!-- begin Recognition -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>Recognition</h2>
-                  </header>
-
-                  {% for recognition in site.data.recognitions %}
-                  <div class="resume-item">
-                      <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-                      <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-                      <p class="resume-item-copy">{{ recognition.summary }}</p>
-                  </div>
-                  {% endfor %}
-
-              </section>
-              <!-- end Recognition -->
-              {% endif %}
-
-              {% if site.resume_section_interests %}
-              <!-- begin Interests -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>Outside Interests</h2>
-                  </header>
-
-                  <div class="resume-item">
-                      <ul class="resume-item-list">
-                          {% for interest in site.data.interests %}
-                          <li>{{ interest.description }}</li>
-                          {% endfor %}
-                      </ul>
-                  </div>
-
-              </section>
-              <!-- end Interests -->
-              {% endif %}
-
-              {% if site.resume_section_links %}
-              <!-- begin Links -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>Additional Links</h2>
-                  </header>
-
-                  <div class="resume-item">
-                      <ul class="resume-item-list">
-                          {% for link in site.data.links %}
-                          <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
-                          {% endfor %}
-                      </ul>
-                  </div>
-
-              </section>
-              <!-- end Links -->
-              {% endif %}
-
-              {% if site.resume_print_social_links %}
-              <!-- begin Print Social Links -->
-              <section class="content-section print-only">
-
-                  <header class="section-header">
-                      <h2>Social Links</h2>
-                  </header>
-
-                  <div class="resume-item">
-                      {% include print-social-links.html %}
-                  </div>
-
-              </section>
-              <!-- end Print Social Links -->
-              {% endif %}
 
 
 </div>
