@@ -114,7 +114,7 @@
                 <div class="resume-item">
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
                       <h3>&bull; {{ honor.name }}</h3>
-                      <h4>{% if honor.url %}<a href="{{ media.url }}">{{ honor.role }} </a>{% else %}{{ honor.role }}{% endif %} </h4>
+                      <h4>{% if honor.url %}<a href="{{ honor.url }}">{{ honor.role }} </a>{% else %}{{ honor.role }}{% endif %} </h4>
                   </div>
                 </div>
                 {% endfor %}
