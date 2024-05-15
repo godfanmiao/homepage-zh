@@ -2,9 +2,9 @@
   role: 专业硕士生导师
   url: https://irm.ruc.edu.cn/szdw/xwds/index.htm
 
-- organization: Institution of Engineering and Technology（IET）
-  role: 会士（Fellow）
-  url: https://www.theiet.org/ 
+# - organization: Institution of Engineering and Technology（IET）
+#   role: 会士（Fellow）
+#   url: https://www.theiet.org/ 
 
 - organization: Institute of Electrical and Electronics Engineers（IEEE）
   role: 高级会员（Senior Member）
