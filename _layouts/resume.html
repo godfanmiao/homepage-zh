@@ -102,6 +102,23 @@
             </section>
             <!-- end Associations -->
             {% endif %}
+            {% if site.resume_section_projects %}
+            <section class="content-section">
+
+                <header class="section-header">
+                    <h2>承担项目/课题</h2>
+                </header>
+
+                {% for project in site.data.projects %}
+                <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                    <h3>&bull; {{ project.name }}</h3>
+                    <h4>{% if project.url %}<a href="{{ project.url }}">{{ project.organization }} </a>{% else %}{{ project.organization }}{% endif %} </h4>
+                    <p class="resume-item-copy">{{ project.role }}</p>
+                </div>
+                {% endfor %}
+
+            </section>
+            {% endif %}
 
             {% if site.resume_section_honors %}
             <!-- begin Honor -->
@@ -144,24 +161,6 @@
             <!-- end Skills -->
             {% endif %}
 
-              {% if site.resume_section_projects %}
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>承担项目/课题</h2>
-                  </header>
-
-                  {% for project in site.data.projects %}
-                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3>&bull; {{ project.name }}</h3>
-                      <h4>{% if project.url %}<a href="{{ project.url }}">{{ project.organization }} </a>{% else %}{{ project.organization }}{% endif %} </h4>
-                      <p class="resume-item-copy">{{ project.role }}</p>
-                  </div>
-                  {% endfor %}
-
-              </section>
-              <!-- end Associations -->
-              {% endif %}
 
               {% if site.resume_section_standards %}
               <!-- begin Softwares -->
