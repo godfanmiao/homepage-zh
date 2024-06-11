@@ -18,12 +18,12 @@
   url: 
   source: ITSC'25. [C]
 
-# - title: Learning to Build Local HD Maps in Realtime from Ego-camera Videos on Autonomated Vehicles
-#   authors: Miao Fan, Shengtong Xu, Yi Yao
-#   url: 
-#   source: IET Transactions on Intelligent Transportation Systems. [J]
+- title: Infrastructure-Assisted HD Mapping at Intersections for Autonomous Driving in Urban Areas
+  authors: Miao Fan, Shengtong Xu
+  url: 
+  source: ITS World Congress'25. [C] 
 
-- title: Real-time Traffic Light Recognition in Ego-camera Videos on Rockchip RV1126 for Autonomated Vehicles
+- title: Real-Time Traffic Light Recognition in Ego-Camera Videos on Rockchip RV1126 for Autonomated Vehicles
   authors: Miao Fan, Shengtong Xu, Xuxu Kong
   url: 
   source: IV'25. [C]
