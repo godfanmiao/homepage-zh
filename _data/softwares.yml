@@ -1,12 +1,17 @@
-- title: GNMap：矢量化高精地图的多轮融合生成软件 （V1.0）
-  authors: 范淼、姚毅、宋向勃
-  url: 
-  description: 中国计算机软件著作权登记号：2024SR0080866 
-
 - title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件 （V1.0）
   authors: 姚毅、范淼、孔旭旭
   url: 
   description: 中国计算机软件著作权登记号：2024SRXXXXXXX
+
+- title: Infra-HDMap：基于路测设备的高精地图路口自动构建平台（V1.0）
+  authors: 姚毅、范淼
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
+
+- title: GNMap：矢量化高精地图的多轮融合生成软件 （V1.0）
+  authors: 范淼、姚毅、宋向勃
+  url: 
+  description: 中国计算机软件著作权登记号：2024SR0080866 
 
 - title: STVec：基于车载相机的高精矢量化街景在线生成软件 （V1.0）
   authors: 姚毅、范淼
