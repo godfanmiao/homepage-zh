@@ -1,18 +1,3 @@
-- title: Distributed Representation Learning for Knowledge Graphs with Entity Descriptions
-  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0167865516302380
-  source: Pattern Recognition Letters, Elsevier. [J]
-
-- title: Probabilistic Belief Embedding for Large-Scale Knowledge Population
-  authors: Miao Fan, Qiang Zhou, Andrew Abel, Thomas Fang Zheng, Ralph Grishman
-  url: https://link.springer.com/article/10.1007/s12559-016-9425-5 
-  source: Cognitive Computation, Springer. [J]
-
-- title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
-  authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
-  url: https://dl.acm.org/doi/abs/10.1145/3394137
-  source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
-
 - title: Towards Vehicle-Infrastructure Cooperative Perception for HD Map Generation
   authors: Miao Fan, Shengtong Xu, Yi Yao
   url: 
@@ -147,3 +132,18 @@
   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
   url: https://ieeexplore.ieee.org/abstract/document/6511899 
   source: WI-IAT'12. [C]
+
+- title: Distributed Representation Learning for Knowledge Graphs with Entity Descriptions
+  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0167865516302380
+  source: Pattern Recognition Letters, Elsevier. [J]
+
+- title: Probabilistic Belief Embedding for Large-Scale Knowledge Population
+  authors: Miao Fan, Qiang Zhou, Andrew Abel, Thomas Fang Zheng, Ralph Grishman
+  url: https://link.springer.com/article/10.1007/s12559-016-9425-5 
+  source: Cognitive Computation, Springer. [J]
+
+- title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
+  authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
+  url: https://dl.acm.org/doi/abs/10.1145/3394137
+  source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
