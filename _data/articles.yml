@@ -1,5 +1,10 @@
+- title: A Survey on Vision-Centric HD Map Learning
+  authors: Miao Fan, Shengtong Xu, Haoyi Xiong
+  url: 
+  source: IET Intelligent Transport Systems. [J]
+
 - title: Infrastructure-Assisted HD Mapping at Intersections for Autonomous Driving
-  authors: Miao Fan, Shengtong Xu
+  authors: Miao Fan, Shengtong Xu, Yi Yao
   url: 
   source: ITS World Congress'25. [C] 
 
@@ -9,9 +14,10 @@
   source: IV'25. [C]
 
 - title: Neural High-Definition Map Learning from Crowd Vehicles
-  authors: Miao Fan, Shengtong Xu, Yi Yao, Haoyi Xiong
+  authors: Miao Fan, Shengtong Xu, Xu Xiao, Haoyi Xiong
   url: 
   source: IET Intelligent Transport Systems. [J]
+
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
