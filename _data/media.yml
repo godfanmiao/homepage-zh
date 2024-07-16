@@ -1,9 +1,9 @@
 - name: 《今日中国》个人专访
   role: 人工智能改善生活
   duration: 2020
-  url: "http://www.chinatoday.com.cn/zw2018/bktg/202007/t20200706_800212882.html?share_token=a9f0deec-3977-47f3-8866-1a38af201781"
+  url: http://www.chinatoday.com.cn/zw2018/bktg/202007/t20200706_800212882.html
 
 - name: 《图书与情报》专题笔谈
   role: 人工智能与数据管理共同支撑新质生产力发展
   duration: 2024
-  url: https://tsyqb.gslib.com.cn/CN/Y2024/V44/I02
+  url: https://tsyqb.gslib.com.cn/CN/Y2024/V44/I02/1
