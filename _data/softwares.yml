@@ -3,15 +3,15 @@
   url: 
   description: 中国计算机软件著作权登记号：2024SRXXXXXXX
 
-- title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件（V1.0）
-  authors: 姚毅、范淼、孔旭旭
-  url: 
-  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
-
 - title: InfraHDMap：基于路侧设备的高精地图自动构建系统（V1.0）
   authors: 姚毅、范淼
   url: 
   description: 中国计算机软件著作权登记号：2024SRXXXXXXX
+
+- title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件（V1.0）
+  authors: 姚毅、范淼、孔旭旭
+  url: 
+  description: 中国计算机软件著作权登记号：2024SR1085042
 
 - title: GNMap：矢量化高精地图的多轮融合生成软件（V1.0）
   authors: 范淼、姚毅、宋向勃
