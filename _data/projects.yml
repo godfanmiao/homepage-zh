@@ -1,7 +1,7 @@
-# - name: 面向众源数据汇聚的时空数据基础平台关键技术研发
-#   organization: 国家重点研发计划（编号：xxxxx）
-#   role: 课题负责人
-#   url:  
+- name: 面向众源数据汇聚的时空数据基础平台关键技术研发
+  organization: 国家重点研发计划（编号：xxxxx）
+  role: 课题负责人
+  url:  
 
 - name: 国产GPU云+众源车（芯）联合构建自动驾驶地图的关键AI技术研究
   organization: 北京市科技新星计划（编号：xxxxx）
@@ -18,15 +18,15 @@
   role: 项目负责人
   url: 
 
-# - name: 路侧设备支持高精地图众源更新关键技术研究与示范应用
-#   organization: 北京市科技攻关“揭榜挂帅”项目（编号：xxxxx）
-#   role: 项目负责人
-#   url: 
+- name: 路侧设备支持高精地图众源更新关键技术研究与示范应用
+  organization: 北京市科技攻关“揭榜挂帅”项目（编号：xxxxx）
+  role: 项目负责人
+  url: 
 
-# - name: 多模态智能交通数据跨域流通开放平台开发及应用
-#   organization: 安徽省科技创新攻坚计划（编号：xxxxx）
-#   role: 项目负责人
-#   url: 
+- name: 多模态智能交通数据跨域流通开放平台开发及应用
+  organization: 安徽省科技创新攻坚计划（编号：xxxxx）
+  role: 项目负责人
+  url: 
 
 - name: 自动驾驶地图大数据接入分析处理系统的研究及示范应用
   organization: 陕西省重点研发计划（编号：2024GX-ZDCYL-01-10）
@@ -38,8 +38,8 @@
   role: 主要参与人（序4）
   url:  
 
-# - name: 基于人工智能的自动驾驶地图实时更新技术研发及产业化应用
-#   organization: 陕西省重点研发计划（编号：xxxxx）
-#   role: 主要参与人（序2）
-#   url: 
+- name: 基于人工智能的自动驾驶地图实时更新技术研发及产业化应用
+  organization: 陕西省重点研发计划（编号：xxxxx）
+  role: 主要参与人（序2）
+  url: 
 
