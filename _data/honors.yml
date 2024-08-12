@@ -1,12 +1,12 @@
-- name: 国家先进制造技术人才
-  role: 工业和信息化部、财政部、国务院国资委
-  duration: 2024
-  url: 
-
 - name: 科技进步三等奖（序2）
   role: 中国智能交通协会
   duration: 2024
   url:
+
+- name: 国家先进制造技术人才
+  role: 工业和信息化部、财政部、国务院国资委
+  duration: 2024
+  url: 
 
 - name: 科技（创新）新星
   role: 北京市科学技术委员会
