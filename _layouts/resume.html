@@ -109,9 +109,9 @@
             {% if site.resume_section_media %}
             <!-- begin Media -->
             <section class="content-section">
-            <header class="section-header">
-                <h2>媒体/杂志报道</h2>
-            </header>
+                <header class="section-header">
+                    <h2>媒体/杂志报道</h2>
+                </header>
                 {% for media in site.data.media %}
                 <div class="resume-item">
                 <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
@@ -148,11 +148,9 @@
             
             {% if site.resume_section_projects %}
             <section class="content-section">
-
                 <header class="section-header">
                     <h2>承担项目/课题</h2>
                 </header>
-
                 {% for project in site.data.projects %}
                 <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
                     <h3>&bull; {{ project.name }}</h3>
@@ -170,7 +168,6 @@
                   <header class="section-header">
                       <h2>标准制定</h2>
                   </header>
-
                   {% for standard in site.data.standards %}
                   <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
                       <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
@@ -179,11 +176,11 @@
                       <p class="resume-item-copy">{{ standard.description }}</p>
                   </div>
                   {% endfor %}
-
               </section>
               <!-- end Projects -->
               {% endif %}
 
+              
               {% if site.resume_section_monographs %}
               <!-- begin Projects -->
               <section class="content-section">
