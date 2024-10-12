@@ -104,23 +104,27 @@
             </section>
             <!-- end Skills -->
             {% endif %}
+            
 
-
+            {% if site.resume_section_media %}
+            <!-- begin Media -->
+            <section class="content-section">
             <header class="section-header">
                 <h2>媒体/杂志报道</h2>
             </header>
-            {% for media in site.data.media %}
-            <div class="resume-item">
-              <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                  <h3>&bull; {{ media.name }}</h3>
-                  <h4>{% if media.url %}<a href="{{ media.url }}">{{ media.role }} </a>{% else %}{{ media.role }}{% endif %} </h4>
-              </div>
-            </div>
-            {% endfor %}
+                {% for media in site.data.media %}
+                <div class="resume-item">
+                <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                    <h3>&bull; {{ media.name }}</h3>
+                    <h4>{% if media.url %}<a href="{{ media.url }}">{{ media.role }} </a>{% else %}{{ media.role }}{% endif %} </h4>
+                </div>
+                </div>
+                {% endfor %}
 
             </section>
             <!-- end Skills -->
             {% endif %}
+
 
             {% if site.resume_section_associations %}
             <!-- begin Associations -->
@@ -159,11 +163,6 @@
             </section>
             {% endif %}
 
-
-
-            {% if site.resume_section_media %}
-            <!-- begin Media -->
-            <section class="content-section">
 
               {% if site.resume_section_standards %}
               <!-- begin Softwares -->
