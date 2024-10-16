@@ -1,50 +1,50 @@
 - title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
-  authors: Suhui Yang, Miao Fan, Shengtong Xu, 
+  authors: Suhui Yang, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
 - title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu,
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
 - title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
-  authors: Yi Zhang, Miao Fan, Shengtong Xu 
+  authors: Yi Zhang, Miao Fan, Shengtong Xu, Haoyi Xiong 
   url: 
   source: IROS'25. [C]
 
 - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
-  authors: Chong Zou, Miao Fan, Shengtong Xu
+  authors: Chong Zou, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
 - title: Vision-INS Cooperative Tracking of Road Facilities for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu, 
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Haoyi Xiong 
   url: 
   source: IROS'25. [C]
 
 - title: Multimodal HD Mapping for Intersections by Intelligent Roadside Units
-  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu
+  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: A Benchmark for Vision-Centric HD Mapping by Cooperative Vehicle-Infrastructure Systems
-  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Xuxu Kong
+  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Xuxu Kong, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
-  authors: Yuchen Zhang, Miao Fan, Shengtong Xu 
+  authors: Yuchen Zhang, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: Vehicle-Infrastructure Cooperative HD Mapping：A Survey
-  authors: Xu Xiao, Miao Fan, Suhui Yang,
+  authors: Xu Xiao, Miao Fan, Suhui Yang, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: A Survey on Lane Topology Reasoning for HD Mapping
-  authors: Yi Yao, Miao Fan, Shengtong Xu 
+  authors: Yi Yao, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
