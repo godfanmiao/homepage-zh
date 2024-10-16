@@ -1,67 +1,67 @@
-# - title: End-to-end HD Map Learning from Multimodal Roadside Units for Autnomous Driving 
-#   authors: Suhui Yang, Miao Fan, Shengtong Xu 
-#   url: 
-#   source: IROS'25. [C]
+- title: End-to-end HD Map Learning from Multimodal Roadside Units for Autnomous Driving 
+  authors: Suhui Yang, Miao Fan, Shengtong Xu 
+  url: 
+  source: IROS'25. [C]
 
-# - title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
-#   authors: Xuxu Kong, Miao Fan, Shengtong Xu 
-#   url: 
-#   source: IROS'25. [C]
+- title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu 
+  url: 
+  source: IROS'25. [C]
 
-# - title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
-#   authors: Xuxu Kong, Miao Fan, Shengtong Xu 
-#   url: 
-#   source: IROS'25. [C]
+- title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu 
+  url: 
+  source: IROS'25. [C]
 
-# - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
-#   authors: Zhongzhang Chen, Miao Fan, Shengtong Xu
-#   url: 
-#   source: IROS'25. [C]
+- title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
+  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu
+  url: 
+  source: IROS'25. [C]
 
-# - title: A Benchmark for Vision-Centric HD Mapping by Cooperative Vehicle-Infrastructure Systems
-#   authors: Miao Fan, Shengtong Xu, Xuxu Kong
-#   url: 
-#   source: IROS'25. [C]
+- title: A Benchmark for Vision-Centric HD Mapping by Cooperative Vehicle-Infrastructure Systems
+  authors: Miao Fan, Shengtong Xu, Xuxu Kong
+  url: 
+  source: IROS'25. [C]
 
-# - title: Multimodal HD Mapping for Intersections by Intelligent Roadside Units
-#   authors: Zhongzhang Chen, Miao Fan, Shengtong Xu
-#   url: 
-#   source: IV'25. [C]
+- title: Multimodal HD Mapping for Intersections by Intelligent Roadside Units
+  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu
+  url: 
+  source: IV'25. [C]
 
-# - title: A Benchmark for Vision-Centric HD Mapping by Cooperative Vehicle-Infrastructure Systems
-#   authors: Shanshan Yu, Miao Fan, Shengtong Xu, Xuxu Kong
-#   url: 
-#   source: IV'25. [C]
+- title: A Benchmark for Vision-Centric HD Mapping by Cooperative Vehicle-Infrastructure Systems
+  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Xuxu Kong
+  url: 
+  source: IV'25. [C]
 
-# - title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
-#   authors: Xuxu Kong, Miao Fan, Shengtong Xu 
-#   url: 
-#   source: IV'25. [C]
+- title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu 
+  url: 
+  source: IV'25. [C]
 
-# - title: Vehicle-Infrastructure Cooperative HD Mapping: A Survey
-#   authors: Xu Xiao, Shengtong Xu, Miao Fan
-#   url: 
-#   source: IV'25. [C]
+- title: Vehicle-Infrastructure Cooperative HD Mapping: A Survey
+  authors: Xu Xiao, Shengtong Xu, Miao Fan
+  url: 
+  source: IV'25. [C]
 
-# - title: A Survey on Lane Topology Reasoning for HD Mapping
-#   authors: Yi Yao, Miao Fan, Shengtong Xu 
-#   url: 
-#   source: IV'25. [C]
+- title: A Survey on Lane Topology Reasoning for HD Mapping
+  authors: Yi Yao, Miao Fan, Shengtong Xu 
+  url: 
+  source: IV'25. [C]
 
-# - title: Towards Neural Generation of Instructions for In-Car Navigation Systems
-#   authors: Lu Ma, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
-#   url: 
-#   source: IV'25. [C]
+- title: Towards Neural Generation of Instructions for In-Car Navigation Systems
+  authors: Lu Ma, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  url: 
+  source: IV'25. [C]
 
-# - title: Meta Learning for Personalized Estimated Time of Arrival Prediction
-#   authors: Zebang Feng, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
-#   url: 
-#   source: IV'25. [C]
+- title: Meta Learning for Personalized Estimated Time of Arrival Prediction
+  authors: Zebang Feng, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  url: 
+  source: IV'25. [C]
 
-# - title: Video-based Traffic Light Recognition on Rockchip RV1126 for Autonomous Driving
-#   authors: Miao Fan, Xuxu Kong, Shengtong Xu, Kun Jiang, Wenbing Huang, Xiangzeng Liu, Haoyi Xiong
-#   url: 
-#   source: IV'25. [C]
+- title: Video-based Traffic Light Recognition on Rockchip RV1126 for Autonomous Driving
+  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Kun Jiang, Wenbing Huang, Xiangzeng Liu, Haoyi Xiong
+  url: 
+  source: IV'25. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
