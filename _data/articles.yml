@@ -1,25 +1,25 @@
 - title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
-  authors: Suhui Yang, Miao Fan, Shengtong Xu 
+  authors: Suhui Yang, Miao Fan, Shengtong Xu, 
   url: 
   source: IROS'25. [C]
 
 - title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu 
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu,
   url: 
   source: IROS'25. [C]
 
 - title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu 
+  authors: Yi Zhang, Miao Fan, Shengtong Xu 
   url: 
   source: IROS'25. [C]
 
 - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
-  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu
+  authors: Chong Zou, Miao Fan, Shengtong Xu
   url: 
   source: IROS'25. [C]
 
 - title: Vision-INS Cooperative Tracking of Road Facilities for Autonomous Driving
-  authors: Miao Fan, Shengtong Xu, Xuxu Kong
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu, 
   url: 
   source: IROS'25. [C]
 
@@ -34,12 +34,12 @@
   source: IV'25. [C]
 
 - title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu 
+  authors: Yuchen Zhang, Miao Fan, Shengtong Xu 
   url: 
   source: IV'25. [C]
 
 - title: Vehicle-Infrastructure Cooperative HD Mapping：A Survey
-  authors: Xu Xiao, Shengtong Xu, Miao Fan
+  authors: Xu Xiao, Miao Fan, Suhui Yang,
   url: 
   source: IV'25. [C]
 
