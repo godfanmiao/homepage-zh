@@ -1,60 +1,60 @@
 - title: VICHD：车路协同生成自动驾驶地图的智能系统（V1.0）
   authors: 范淼、孔旭旭、余姗姗
   url: 
-  description: 登记号：2024SR1589974（证书号：软著登字第13993847号）
+  description: 登记号：2024SR1589974；证书号：软著登字第13993847号
 
 - title: InfraHDMap：基于路侧设备的高精地图自动构建系统（V1.0）
   authors: 姚毅、范淼
   url: 
-  description: 登记号：2024SR1336269（证书号：软著登字第13993847号）
+  description: 登记号：2024SR1336269；证书号：软著登字第13993847号
 
 - title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件（V1.0）
   authors: 姚毅、范淼、孔旭旭
   url: 
-  description: 登记号：2024SR1085042（证书号：软著登字第13993847号）
+  description: 登记号：2024SR1085042；证书号：软著登字第13993847号
 
 - title: GNMap：矢量化高精地图的多轮融合生成软件（V1.0）
   authors: 范淼、姚毅、宋向勃
   url: 
-  description: 登记号：2024SR0080866（证书号：软著登字第13993847号）
+  description: 登记号：2024SR0080866；证书号：软著登字第13993847号
 
 - title: STVec：基于车载相机的高精矢量化街景在线生成软件（V1.0）
   authors: 姚毅、范淼
   url: 
-  description: 登记号：2024SR0305968（证书号：软著登字第13993847号）
+  description: 登记号：2024SR0305968；证书号：软著登字第13993847号
 
 - title: RV1126-TLR：基于车载RV1126芯片的交通灯实时感知软件（V1.0）
   authors: 孔旭旭、范淼、姚毅
   url: 
-  description: 登记号：2024SR0973858（证书号：软著登字第13993847号）
+  description: 登记号：2024SR0973858；证书号：软著登字第13993847号
 
 - title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
   authors: 范淼、姚毅、宋向勃、李翔
   url: 
-  description: 登记号：2024SR0447708（证书号：软著登字第13993847号）
+  description: 登记号：2024SR0447708；证书号：软著登字第13993847号
 
 - title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台（V1.0）
   authors: 范淼、姚毅、宋向勃、李翔
   url: 
-  description: 登记号：2023SR1508587（证书号：软著登字第13993847号）
+  description: 登记号：2023SR1508587；证书号：软著登字第13993847号
 
-- title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台（V1.0 & V2.0）
+- title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台（V2.0）
   authors: 范淼、姚毅、孔旭旭
   url: 
-  description: 登记号：2023SR0762065 & 2023SR1021672（证书号：软著登字第13993847号）
+  description: 登记号：2023SR1021672；证书号：软著登字第13993847号
 
 - title: UNiNet-Cls：自然场景下交通标志的实时视觉识别软件（V1.0）
   authors: 范淼、姚毅
   url: 
-  description: 登记号：2023SR1029817（证书号：软著登字第13993847号）
+  description: 登记号：2023SR1029817；证书号：软著登字第13993847号
 
 - title: UNiNet-Seg：自然场景下道路要素的实时视觉分割与提取软件（V1.0）
   authors: 姚毅、范淼
   url: 
-  description: 登记号：2023SR1508594（证书号：软著登字第13993847号）
+  description: 登记号：2023SR1508594；证书号：软著登字第13993847号
 
 - title: UNiNet-Det：自然场景下道路目标的实时视觉检测软件（V1.0）
   authors: 姚毅、范淼、宋向勃
   url: 
-  description: 登记号：2024SR0078845（证书号：软著登字第13993847号）
+  description: 登记号：2024SR0078845；证书号：软著登字第13993847号
 
