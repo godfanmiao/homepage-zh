@@ -13,10 +13,11 @@
   duration: 2024
   url: 
 
-# - name: 海英人才
-#   role: 北京市海淀区人民政府、中关村科学城管理委员会
-#   duration: 2024
-#   url: 
+- name: 海英人才-青年英才
+  role: 北京市海淀区人民政府、中关村科学城管理委员会
+  duration: 2024
+  url: 
+
 - name: 科技进步三等奖（序2）
   role: 中国智能交通协会
   duration: 2024
