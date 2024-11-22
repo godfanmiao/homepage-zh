@@ -1,6 +1,4 @@
-- organization: 中国人民大学信息资源管理学院
-  role: 专业硕士生导师
-  url: https://irm.ruc.edu.cn/szdw/xwds/index.htm
+
 
 # - organization: Institution of Engineering and Technology（IET）
 #   role: 会士（Fellow）
@@ -10,3 +8,6 @@
   role: 高级会员（Senior Member）
   url: https://www.ieee.org/
 
+- organization: 中国人民大学信息资源管理学院
+  role: 专业硕士生导师
+  url: https://irm.ruc.edu.cn/szdw/xwds/index.htm
