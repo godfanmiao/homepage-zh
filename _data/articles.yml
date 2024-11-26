@@ -1,6 +1,31 @@
 - title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
   authors: Suhui Yang, Miao Fan, Fengfei Gao, Mengmeng Yang, Haoyi Xiong
   url: 
+  source: IROS'25. [J]
+
+- title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  url: 
+  source: IROS'25. [J]
+
+- title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
+  authors: Yi Zhang, Miao Fan, Shengtong Xu, Kun Jiang, Haoyi Xiong 
+  url: 
+  source: IROS'25. [J]
+
+- title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  url: 
+  source: IROS'25. [J]
+
+- title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
+  authors: Yi Zhang, Miao Fan, Shengtong Xu, Kun Jiang, Haoyi Xiong 
+  url: 
+  source: 测绘通报. [J]
+
+- title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
+  authors: Suhui Yang, Miao Fan, Fengfei Gao, Mengmeng Yang, Haoyi Xiong
+  url: 
   source: IROS'25. [C]
 
 - title: Towards Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
@@ -58,8 +83,8 @@
   url: 
   source: IV'25. [C]
 
-- title: Video-based Traffic Light Recognition on Rockchip RV1126 for Autonomous Driving
-  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Kun Jiang, Wenbing Huang, Xiangzeng Liu, Haoyi Xiong
+- title: Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving
+  authors: Miao Fan, Xuxu Kong, Haoyi Xiong, Shengtong Xu, Kun Jiang, Wenbing Huang, Xiangzeng Liu
   url: 
   source: IV'25. [C]
 
