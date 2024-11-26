@@ -33,11 +33,6 @@
   url: 
   source: IROS'25. [C]
 
-- title: Neural Generation of Vectorized HD Maps for Autonomous Driving by Crowdsourced Vehicles
-  authors: Yi Zhang, Miao Fan, Shengtong Xu, Kun Jiang, Haoyi Xiong 
-  url: 
-  source: IROS'25. [C]
-
 - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
   authors: Chong Zou, Miao Fan, Shengtong Xu, Wenbo Hu, Haoyi Xiong
   url: 
@@ -73,7 +68,7 @@
   url: 
   source: IV'25. [C]
 
-- title: Towards Neural Generation of Instructions for In-Car Navigation Systems
+- title: Neural Generation of Instructions for In-Car Navigation Systems
   authors: Lu Ma, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
   url: 
   source: IV'25. [C]
