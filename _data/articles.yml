@@ -34,12 +34,17 @@
   source: IROS'25. [C]
 
 - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
-  authors: Chong Zou, Miao Fan, Shengtong Xu, Wenbo Hu, Haoyi Xiong
+  authors: Quanxin Zheng, Miao Fan, Shengtong Xu, Wenbo Hu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
 - title: Vision-INS Cooperative Tracking of Road Facilities for Autonomous Driving
   authors: Xuxu Kong, Miao Fan, Chao Zhang, Xiangzeng Liu, Haoyi Xiong 
+  url: 
+  source: IROS'25. [C]
+
+- title: Neural Generation of Instructions for In-Car Navigation Systems
+  authors: Zebang Feng, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
@@ -65,11 +70,6 @@
 
 - title: A Survey on Lane Topology Reasoning for HD Mapping
   authors: Yi Yao, Miao Fan, Shengtong Xu, Haoyi Xiong
-  url: 
-  source: IV'25. [C]
-
-- title: Neural Generation of Instructions for In-Car Navigation Systems
-  authors: Lu Ma, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
