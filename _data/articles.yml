@@ -1,9 +1,9 @@
-- title: Online Vectorized Map Generation by Vision-Centric Vehicle-Infrastructure Systems
-  authors: Suhui Yang, Miao Fan, Fengfei Gao, Mengmeng Yang, Haoyi Xiong
+- title: Onboard Generation of Vectorized Maps by Vision-Centric V2I Systems
+  authors: Miao Fan, Shanshan Yu, Shengtong Xu, Haoyi Xiong
   url: 
   source: Science Advances. [J]
 
-- title: Neural Generation of Instructions for In-Car Navigation Systems
+- title: Navi-Agent：Online Generation of Instructions for Navigation Systems
   authors: Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: Science Advances. [J]
@@ -14,7 +14,7 @@
   source: IEEE Transactions on Vehicular Technology. [J]
 
 - title: Lane Topology Reasoning at Intersections by Roadside Cameras
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  authors: Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
   url: 
   source: IEEE Transactions on Intelligent Transportation Systems. [J]
 
