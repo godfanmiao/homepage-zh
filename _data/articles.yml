@@ -74,32 +74,32 @@
   source: IV'25. [C]
 
 - title: A Benchmark for Vision-Centric HD Mapping by Cooperative V2I Systems
-  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Kun Jiang
+  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Kun Jiang, Xiangzeng Liu, Wenbing Huang, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
-  authors: Yuchen Zhang, Miao Fan, Yi Jiao, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu
+  authors: Yuchen Zhang, Miao Fan, Yi Jiao, Shengtong Xu, Xiangzeng Liu, Kun Jiang, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: Vehicle-Infrastructure Cooperative HD Mapping：A Survey
-  authors: Xu Xiao, Suhui Yang, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu
+  authors: Xu Xiao, Suhui Yang, Miao Fan, Shengtong Xu, Xiangzeng Liu, Wenbo Hu, Haoyi Xiong 
   url: 
   source: IV'25. [C]
 
 - title: A Survey on Lane Topology Reasoning for HD Mapping
-  authors: Yi Yao, Miao Fan, Shengtong Xu, Xiangzeng Liu, Wenbo Hu, Wenbing Huang, Haoyi Xiong 
+  authors: Yi Yao, Miao Fan, Shengtong Xu, Xiangzeng Liu, Wenbo Hu, Haoyi Xiong 
   url: 
   source: IV'25. [C]
 
 - title: Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving
-  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Xiangzeng Liu, Haoyi Xiong, Kun Jiang, Wenbing Huang
+  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Haoyi Xiong, Kun Jiang, Wenbing Huang, Xiangzeng Liu 
   url: 
   source: IV'25. [C]
 
 - title: Meta Learning for Personalized ETA Prediction
-  authors: Zebang Feng, Miao Fan, Shengtong Xu, Xiangzeng Liu, Wenbing Huang, Haoyi Xiong
+  authors: Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Wenbing Huang
   url: 
   source: KDD'25. [C]
 
