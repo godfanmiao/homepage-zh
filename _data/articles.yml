@@ -9,17 +9,17 @@
   source: Science Advances. [J]
 
 - title: Real-Time Traffic Light Recognition by Onboard AI Chips for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Wenbing Huang, Haoyi Xiong
   url: 
   source: IEEE Transactions on Vehicular Technology. [J]
 
 - title: Lane Topology Reasoning at Intersections by Roadside Cameras
-  authors: Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  authors: Miao Fan, Yi Yao, Shengtong Xu, Kun Jiang, Haoyi Xiong
   url: 
   source: IEEE Transactions on Intelligent Transportation Systems. [J]
 
 - title: Vectorized Map Learning at Intersections from Multimodal Roadside Units
-  authors: Miao Fan, Shengtong Xu, Kun Jiang, Haoyi Xiong 
+  authors: Miao Fan, Zhongzhang Chen, Shengtong Xu, Kun Jiang, Haoyi Xiong 
   url: 
   source: IEEE Transactions on Intelligent Transportation Systems. [J]
 
@@ -49,17 +49,17 @@
   source: ITSC'25. [C]
 
 - title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
-  authors: Suhui Yang, Miao Fan, Fengfei Gao, Mengmeng Yang, Haoyi Xiong
+  authors: Suhui Yang, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
 - title: Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
 - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
-  authors: Quanxin Zheng, Miao Fan, Shengtong Xu, Wenbo Hu, Haoyi Xiong
+  authors: Quanxin Zheng, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
 
@@ -69,17 +69,17 @@
   source: ECML-PKDD'25. [C]
 
 - title: Multimodal HD Mapping for Intersections by Intelligent Roadside Units
-  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu, Haoyi Xiong
+  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Mengmeng Yang
   url: 
   source: IV'25. [C]
 
 - title: A Benchmark for Vision-Centric HD Mapping by Cooperative V2I Systems
-  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Xuxu Kong, Haoyi Xiong
+  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Kun Jiang
   url: 
   source: IV'25. [C]
 
 - title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
-  authors: Yuchen Zhang, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Wenbo Hu, Wenbing Huang
+  authors: Yuchen Zhang, Miao Fan, Yi Jiao, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu
   url: 
   source: IV'25. [C]
 
@@ -94,12 +94,12 @@
   source: IV'25. [C]
 
 - title: Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving
-  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Haoyi Xiong, Kun Jiang, Wenbing Huang, Xiangzeng Liu
+  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Xiangzeng Liu, Haoyi Xiong, Kun Jiang, Wenbing Huang
   url: 
   source: IV'25. [C]
 
 - title: Meta Learning for Personalized ETA Prediction
-  authors: Zebang Feng, Miao Fan, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+  authors: Zebang Feng, Miao Fan, Shengtong Xu, Xiangzeng Liu, Wenbing Huang, Haoyi Xiong
   url: 
   source: KDD'25. [C]
 
@@ -152,4 +152,3 @@
   authors: Miao Fan, Jizhou Huang, An Zhuo, Ying Li, Ping Li, Haifeng Wang
   url: https://dl.acm.org/citation.cfm?id=3357810
   source: CIKM'19. [C]
-
