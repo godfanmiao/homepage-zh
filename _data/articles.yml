@@ -1,5 +1,5 @@
 - title: Onboard Generation of Vectorized Maps by Vision-Centric V2I Systems
-  authors: Miao Fan, Shanshan Yu, Shengtong Xu, Haoyi Xiong
+  authors: Miao Fan, Shanshan Yu, Xuxu Kong, Shengtong Xu, Haoyi Xiong
   url: 
   source: Transportation Research Part C： Emerging Technologies. [J]
 
@@ -7,6 +7,11 @@
   authors: Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: Transportation Research Part C： Emerging Technologies. [J]
+
+- title: Learning Vectorized Maps from Front Camera Stream by Onboard AI Chips
+  authors: Miao Fan, Yuchen Zhang, Shengtong Xu, Haoyi Xiong
+  url: 
+  source: IEEE Transactions on Vehicular Technology. [J]
 
 - title: Real-Time Traffic Light Recognition by Onboard AI Chips for Autonomous Driving
   authors: Miao Fan, Xuxu Kong, Shengtong Xu, Wenbing Huang, Haoyi Xiong
