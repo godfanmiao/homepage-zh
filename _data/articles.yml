@@ -8,7 +8,7 @@
   url: 
   source: Transportation Research Part C： Emerging Technologies. [J]
 
-- title: Real-Time Generation of Vectorized Maps by Onboard AI Chips from Front Camera Stream 
+- title: Onboard Generation of Vectorized Maps from Front Camera Stream
   authors: Miao Fan, Yuchen Zhang, Shengtong Xu, Haoyi Xiong
   url: 
   source: IEEE Transactions on Vehicular Technology. [J]
@@ -73,7 +73,7 @@
   url: 
   source: IROS'25. [C]
 
-- title: Onboard Generation of Vectorized Maps from Front Camera Stream by AI Chips
+- title: Real-Time Generation of Vectorized Maps by Onboard AI Chips from Front Camera Stream 
   authors: Yuchen Zhang, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: 
   source: IROS'25. [C]
