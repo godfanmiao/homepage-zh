@@ -33,18 +33,18 @@
   url: https://dl.acm.org/doi/abs/10.1145/3394137
   source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
 
-- title: 车路联合构建智驾高精地图的关键技术综述
-  authors: 肖旭, 杨苏辉, 范淼, 侯笑宇, 江昆, 马照亭
+- title: 车路众源构建智驾高精地图的关键技术综述
+  authors: 肖旭, 范淼, 侯笑宇, 江昆, 杜清运
   url: 
   source: 测绘学报. [J]
 
-- title: 智驾高精地图的车道拓扑关系推断技术综述
-  authors: 姚毅, 范淼, 侯笑宇, 江昆, 马照亭
+- title: 智驾高精地图要素的拓扑关系推断技术综述
+  authors: 姚毅, 范淼, 侯笑宇, 江昆, 任福
   url: 
   source: 测绘学报. [J]
 
 - title: 基于路侧相机的矢量地图自动生成技术研究
-  authors: 姚毅, 范淼, 杨焕星, 侯笑宇, 江昆, 马照亭
+  authors: 姚毅, 范淼, 杨焕星, 侯笑宇, 江昆
   url: 
   source: 测绘通报. [J]
 
