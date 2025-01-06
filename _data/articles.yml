@@ -1,95 +1,95 @@
-- title: Onboard Generation of Vectorized Maps by Vision-Centric V2I Systems
-  authors: Miao Fan, Shanshan Yu, Xuxu Kong, Shengtong Xu, Haoyi Xiong
-  url: 
-  source: IEEE Transactions on Vehicular Technology. [J]
+# - title: Onboard Generation of Vectorized Maps by Vision-Centric V2I Systems
+#   authors: Miao Fan, Shanshan Yu, Xuxu Kong, Shengtong Xu, Haoyi Xiong
+#   url: 
+#   source: IEEE Transactions on Vehicular Technology. [J]
 
-- title: Lane Topology Reasoning at Intersections by Roadside Cameras
-  authors: Miao Fan, Yi Yao, Shengtong Xu, Kun Jiang, Haoyi Xiong
-  url: 
-  source: IEEE Transactions on Intelligent Transportation Systems. [J]
+# - title: Lane Topology Reasoning at Intersections by Roadside Cameras
+#   authors: Miao Fan, Yi Yao, Shengtong Xu, Kun Jiang, Haoyi Xiong
+#   url: 
+#   source: IEEE Transactions on Intelligent Transportation Systems. [J]
 
-- title: Vectorized Map Learning at Intersections from Multimodal Roadside Units
-  authors: Miao Fan, Zhongzhang Chen, Shengtong Xu, Kun Jiang, Haoyi Xiong 
-  url: 
-  source: IEEE Transactions on Intelligent Transportation Systems. [J]
+# - title: Vectorized Map Learning at Intersections from Multimodal Roadside Units
+#   authors: Miao Fan, Zhongzhang Chen, Shengtong Xu, Kun Jiang, Haoyi Xiong 
+#   url: 
+#   source: IEEE Transactions on Intelligent Transportation Systems. [J]
 
-- title: Real-Time Traffic Light Recognition by Onboard AI Chips for Autonomous Driving
-  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Wenbing Huang, Haoyi Xiong
-  url: 
-  source: IET Intelligent Transport Systems. [J]
+# - title: Real-Time Traffic Light Recognition by Onboard AI Chips for Autonomous Driving
+#   authors: Miao Fan, Xuxu Kong, Shengtong Xu, Wenbing Huang, Haoyi Xiong
+#   url: 
+#   source: IET Intelligent Transport Systems. [J]
 
-- title: Neural Generation of Voice Prompts for Automotive Navigation
-  authors: Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong
-  url: 
-  source: IET Intelligent Transport Systems. [J] 
+# - title: Neural Generation of Voice Prompts for Automotive Navigation
+#   authors: Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong
+#   url: 
+#   source: IET Intelligent Transport Systems. [J] 
 
-- title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
-  authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
-  url: https://dl.acm.org/doi/abs/10.1145/3394137
-  source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
+# - title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
+#   authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
+#   url: https://dl.acm.org/doi/abs/10.1145/3394137
+#   source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
 
-- title: 车路众源构建智驾高精地图的关键技术综述
-  authors: 肖旭, 范淼, 侯笑宇, 江昆, 杜清运
-  url: 
-  source: 测绘学报. [J]
+# - title: 车路众源构建智驾高精地图的关键技术综述
+#   authors: 肖旭, 范淼, 侯笑宇, 江昆, 杜清运
+#   url: 
+#   source: 测绘学报. [J]
 
-- title: 智驾高精地图要素的拓扑关系推断技术综述
-  authors: 姚毅, 范淼, 侯笑宇, 江昆, 任福
-  url: 
-  source: 测绘学报. [J]
+# - title: 智驾高精地图要素的拓扑关系推断技术综述
+#   authors: 姚毅, 范淼, 侯笑宇, 江昆, 任福
+#   url: 
+#   source: 测绘学报. [J]
 
-- title: 基于路侧相机的矢量地图自动生成技术研究
-  authors: 姚毅, 范淼, 杨焕星, 侯笑宇, 江昆
-  url: 
-  source: 测绘通报. [J]
+# - title: 基于路侧相机的矢量地图自动生成技术研究
+#   authors: 姚毅, 范淼, 杨焕星, 侯笑宇, 江昆
+#   url: 
+#   source: 测绘通报. [J]
 
-- title: “车路云一体化”的数据安全合规体系构建研究
-  authors: 陈卓宁, 肖旭, 范淼, 马照亭
-  url: 
-  source: 测绘通报. [J]
+# - title: “车路云一体化”的数据安全合规体系构建研究
+#   authors: 陈卓宁, 肖旭, 范淼, 马照亭
+#   url: 
+#   source: 测绘通报. [J]
 
-- title: Vision-INS Cooperative Tracking of Road Facilities for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Chao Zhang, Shengtong Xu, Haoyi Xiong 
-  url: 
-  source: ITSC'25. [C]
+# - title: Vision-INS Cooperative Tracking of Road Facilities for Autonomous Driving
+#   authors: Xuxu Kong, Miao Fan, Chao Zhang, Shengtong Xu, Haoyi Xiong 
+#   url: 
+#   source: ITSC'25. [C]
 
-- title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
-  authors: Suhui Yang, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
-  url: 
-  source: IROS'25. [C]
+# - title: End-to-End HD Map Learning from Multimodal Roadside Units for Autonomous Driving 
+#   authors: Suhui Yang, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
+#   url: 
+#   source: IROS'25. [C]
 
-- title: Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
-  authors: Xuxu Kong, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
-  url: 
-  source: IROS'25. [C]
+# - title: Vision-Centric HD Mapping by Vehicle-Infrastructure Cooperation for Autonomous Driving
+#   authors: Xuxu Kong, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
+#   url: 
+#   source: IROS'25. [C]
 
-- title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
-  authors: Quanxin Zheng, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
-  url: 
-  source: IROS'25. [C]
+# - title: Learning to Generate Vectorized HD Maps at Intersections from Multiple Roadside Cameras
+#   authors: Quanxin Zheng, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
+#   url: 
+#   source: IROS'25. [C]
 
-- title: Real-Time Generation of Vectorized Maps by Onboard AI Chips from Front Camera Stream 
-  authors: Yuchen Zhang, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
-  url: 
-  source: IROS'25. [C]
+# - title: Real-Time Generation of Vectorized Maps by Onboard AI Chips from Front Camera Stream 
+#   authors: Yuchen Zhang, Miao Fan, Shengtong Xu, Haoyi Xiong, XXXX
+#   url: 
+#   source: IROS'25. [C]
 
-- title: Voice Prompt Generation through LLMs for In-Car Navigation 
+- title: Voice Prompt Generation through LLMs for In-Car Navigation
   authors: Zebang Feng, Miao Fan, Shengtong Xu, Mingcheng Liao, Haoyi Xiong
   url: 
   source: ECML-PKDD'25. [C]
 
 - title: Multimodal HD Mapping for Intersections by Intelligent Roadside Units
-  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Mengmeng Yang
+  authors: Zhongzhang Chen, Miao Fan, Shengtong Xu, Mengmeng Yang, Kun Jiang, Xiangzeng Liu, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: A Benchmark for Vision-Centric HD Mapping by Cooperative V2I Systems
-  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Kun Jiang, Xiangzeng Liu, Wenbing Huang, Haoyi Xiong
+  authors: Shanshan Yu, Miao Fan, Shengtong Xu, Kun Jiang, Xiangzeng Liu, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
 - title: Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments
-  authors: Yuchen Zhang, Miao Fan, Yi Jiao, Shengtong Xu, Xiangzeng Liu, Kun Jiang, Haoyi Xiong
+  authors: Yuchen Zhang, Miao Fan, Shengtong Xu, Xiangzeng Liu, Haoyi Xiong
   url: 
   source: IV'25. [C]
 
@@ -99,18 +99,18 @@
   source: IV'25. [C]
 
 - title: A Survey on Lane Topology Reasoning for HD Mapping
-  authors: Yi Yao, Miao Fan, Shengtong Xu, Xiangzeng Liu, Wenbo Hu, Haoyi Xiong 
+  authors: Yi Yao, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Wenbo Hu, Wenbing Huang
   url: 
   source: IV'25. [C]
 
-- title: Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving
-  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Haoyi Xiong, Kun Jiang, Wenbing Huang, Xiangzeng Liu 
+- title: Video-based Traffic Light Recognition on Rockchip RV1126 for Autonomous Driving
+  authors: Miao Fan, Xuxu Kong, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu 
   url: 
   source: IV'25. [C]
 
 - title: Meta Learning for Personalized ETA Prediction
   authors: Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong, Xiangzeng Liu, Wenbing Huang
-  url: 
+  url: https://openreview.net/pdf?id=4xVrfeBo9A
   source: KDD'25. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
