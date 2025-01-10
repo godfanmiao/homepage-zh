@@ -23,10 +23,10 @@
   url: https://openreview.net/pdf?id=4xVrfeBo9A
   source: IET Intelligent Transport Systems. [J] 
 
-# - title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
-#   authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
-#   url: https://dl.acm.org/doi/abs/10.1145/3394137
-#   source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
+- title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
+  authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
+  url: https://dl.acm.org/doi/abs/10.1145/3394137
+  source: ACM Transactions on Asian and Low-Resource Language Information Processing. [J]
 
 # - title: 车路众源构建智驾高精地图的关键技术综述
 #   authors: 肖旭, 范淼, 侯笑宇, 江昆, 杜清运
