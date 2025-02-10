@@ -63,6 +63,11 @@
 #   url: 
 #   source: IROS'25. [C]
 
+- title: Traffic Signal Phase and Timing Estimation with Large-Scale Floating Car Data
+  authors: Mingcheng Liao, Zebang Feng, Miao Fan, Shengtong Xu, Haoyi Xiong
+  url: https://openreview.net/pdf?id=4xVrfeBo9A
+  source: ITSC'25. [C]
+
 - title: Learning to Generate Vectorized HD Maps at Intersections by Multiple Roadside Cameras
   authors: Quanxin Zheng, Miao Fan, Shengtong Xu, Haoyi Xiong
   url: https://openreview.net/pdf?id=4xVrfeBo9A
