@@ -58,49 +58,49 @@
   url: "https://patents.google.com/patent/US10776578B2/en"
   description: US Patent No.：US10776578B2
 
-- title: 云上高精地图构建方法、装置、设备、介质及产品
-  authors: 范淼, 姚毅, 宋向勃, 李翔
-  url: "https://patents.google.com/patent/CN117746115B"
-  description: 中国发明专利授权公告号：CN117746115B
+# - title: 云上高精地图构建方法、装置、设备、介质及产品
+#   authors: 范淼, 姚毅, 宋向勃, 李翔
+#   url: "https://patents.google.com/patent/CN117746115B"
+#   description: 中国发明专利授权公告号：CN117746115B
 
-- title: 移动终端上高精地图构建方法、装置、设备、介质及产品
-  authors: 范淼, 姚毅, 宋向勃, 郭兆钟
-  url: "https://patents.google.com/patent/CN117746114B"
-  description: 中国发明专利授权公告号：CN117746114B
+# - title: 移动终端上高精地图构建方法、装置、设备、介质及产品
+#   authors: 范淼, 姚毅, 宋向勃, 郭兆钟
+#   url: "https://patents.google.com/patent/CN117746114B"
+#   description: 中国发明专利授权公告号：CN117746114B
 
-- title: 模型训练方法、地图生成方法、设备及存储介质
-  authors: 范淼, 姚毅, 肖旭, 宋向勃
-  url: "https://patents.google.com/patent/CN117893853B"
-  description: 中国发明专利授权公告号：CN117893853B
+# - title: 模型训练方法、地图生成方法、设备及存储介质
+#   authors: 范淼, 姚毅, 肖旭, 宋向勃
+#   url: "https://patents.google.com/patent/CN117893853B"
+#   description: 中国发明专利授权公告号：CN117893853B
 
-- title: 图像特征识别方法、装置、设备及存储介质
-  authors: 范淼, 姚毅
-  url: "https://patents.google.com/patent/CN117893854B"
-  description: 中国发明专利授权公告号：CN117893854B
+# - title: 图像特征识别方法、装置、设备及存储介质
+#   authors: 范淼, 姚毅
+#   url: "https://patents.google.com/patent/CN117893854B"
+#   description: 中国发明专利授权公告号：CN117893854B
 
-- title: 图像识别模型的训练方法、装置及设备
-  authors: 范淼, 姚毅
-  url: "https://patents.google.com/patent/CN117710769B"
-  description: 中国发明专利授权公告号：CN117710769B
+# - title: 图像识别模型的训练方法、装置及设备
+#   authors: 范淼, 姚毅
+#   url: "https://patents.google.com/patent/CN117710769B"
+#   description: 中国发明专利授权公告号：CN117710769B
 
 - title: 训练地图要素挖掘网络模型的方法、装置和可读存储介质
   authors: 范淼
-  url: "https://patents.google.com/patent/CN117292236B"
+  url: "https://patents.google.com/patent/CN117292236A"
   description: 中国发明专利授权公告号：CN117292236B
 
 - title: 兴趣点变更信息的查找方法、查找装置和计算机设备
   authors: 范淼
-  url: "https://patents.google.com/patent/CN117290587B"
+  url: "https://patents.google.com/patent/CN117290587A"
   description: 中国发明专利授权公告号：CN117290587B
 
 - title: 更新地图中兴趣点的方法、装置、计算机设备及存储介质
   authors: 范淼
-  url: "https://patents.google.com/patent/CN117271827B"
+  url: "https://patents.google.com/patent/CN117271827A"
   description: 中国发明专利授权公告号：CN117271827B
 
 - title: 识别照片中兴趣点的方法、装置及机器可读存储介质
   authors: 范淼
-  url: "https://patents.google.com/patent/CN117290538B"
+  url: "https://patents.google.com/patent/CN117290538A"
   description: 中国发明专利授权公告号：CN117290538B
 
 - title: POI价值评估的方法、装置、设备和计算机存储介质
@@ -108,32 +108,32 @@
   url: "https://patents.google.com/patent/CN110659433B/zh"
   description: 中国发明专利授权公告号：CN110659433B
 
-- title: 用于对评论进行评估的方法、装置、设备和存储介质
-  authors: 范淼, 冯悦, 孙明明, 李平, 王海峰
-  url: "https://patents.google.com/patent/CN108363790B/zh"
-  description: 中国发明专利授权公告号：CN108363790B
+# - title: 用于对评论进行评估的方法、装置、设备和存储介质
+#   authors: 范淼, 冯悦, 孙明明, 李平, 王海峰
+#   url: "https://patents.google.com/patent/CN108363790B/zh"
+#   description: 中国发明专利授权公告号：CN108363790B
 
-- title: 推送信息的方法和装置
-  authors: 范淼, 周桐, 黄际洲
-  url: "https://patents.google.com/patent/CN113495942B/zh"
-  description: 中国发明专利授权公告号：CN113495942B
+# - title: 推送信息的方法和装置
+#   authors: 范淼, 周桐, 黄际洲
+#   url: "https://patents.google.com/patent/CN113495942B/zh"
+#   description: 中国发明专利授权公告号：CN113495942B
 
-- title: 信息检索方法、装置、设备及计算机可读介质
-  authors: 范淼, 余金星, 窦泽皓, 孙明明, 李平, 王海峰
-  url: "https://patents.google.com/patent/CN110633407B/zh"
-  description: 中国发明专利授权公告号：CN110633407B
+# - title: 信息检索方法、装置、设备及计算机可读介质
+#   authors: 范淼, 余金星, 窦泽皓, 孙明明, 李平, 王海峰
+#   url: "https://patents.google.com/patent/CN110633407B/zh"
+#   description: 中国发明专利授权公告号：CN110633407B
 
-- title: 用于信息检索的方法、装置、设备和计算机可读存储介质
-  authors: 范淼, 窦泽皓, 孙明明, 李平, 王海峰
-  url: "https://patents.google.com/patent/CN110674429B/zh"
-  description: 中国发明专利授权公告号：CN110674429B
+# - title: 用于信息检索的方法、装置、设备和计算机可读存储介质
+#   authors: 范淼, 窦泽皓, 孙明明, 李平, 王海峰
+#   url: "https://patents.google.com/patent/CN110674429B/zh"
+#   description: 中国发明专利授权公告号：CN110674429B
 
 - title: 用于更新模型参数的方法、装置、设备和存储介质
   authors: 范淼, 冯悦, 孙明明, 李平
   url: "https://patents.google.com/patent/CN110399547B/zh"
   description: 中国发明专利授权公告号：CN110399547B
 
-- title: 建立同义鉴别模型以及鉴别同义文本的方法、装置
-  authors: 范淼, 孙明明, 林武桃, 李平
-  url: "https://patents.google.com/patent/CN107797985B/zh"
-  description: 中国发明专利授权公告号：CN107797985B
+# - title: 建立同义鉴别模型以及鉴别同义文本的方法、装置
+#   authors: 范淼, 孙明明, 林武桃, 李平
+#   url: "https://patents.google.com/patent/CN107797985B/zh"
+#   description: 中国发明专利授权公告号：CN107797985B
